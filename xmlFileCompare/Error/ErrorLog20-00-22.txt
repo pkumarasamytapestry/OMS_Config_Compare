@@ -1,0 +1,88 @@
+
+Log Entry : 
+10/20/2022 12:04:56
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 273
+__________________________
+
+Log Entry : 
+10/20/2022 12:05:04
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 273
+__________________________
+
+Log Entry : 
+10/20/2022 12:10:10
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 273
+__________________________
+
+Log Entry : 
+10/20/2022 12:10:19
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 273
+__________________________
+
+Log Entry : 
+10/20/2022 12:13:44
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 334
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 67
+__________________________
+
+Log Entry : 
+10/20/2022 12:13:56
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 334
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 67
+__________________________
+
+Log Entry : 
+10/20/2022 12:17:16
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 335
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 72
+__________________________
+
+Log Entry : 
+10/20/2022 12:29:38
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 335
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 72
+__________________________
+
+Log Entry : 
+10/20/2022 12:34:19
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 335
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 72
+__________________________
+
+Log Entry : 
+10/20/2022 12:36:12
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 335
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 72
+__________________________
+
+Log Entry : 
+10/20/2022 12:36:18
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 335
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 67
+__________________________
+
+Log Entry : 
+10/20/2022 12:38:07
+Error in: http://localhost:58800/FileContents.aspx. Error Message:Could not find file 'C:\Users\jbenny\code\xmlFileCompare\xmlFileCompare\App_Data\FileColumns1.xml'.   at XmlFileCompare.FileContents.RemoveColumns(DataTable dataTable) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 335
+   at XmlFileCompare.FileContents.GridViewBind(String fileName) in C:\Users\jbenny\Code\XmlFileCompare\xmlFileCompare\FileContents.aspx.cs:line 67
+__________________________
